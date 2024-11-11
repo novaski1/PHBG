@@ -4,7 +4,7 @@
 
 <h2>🎹 Demo</h2>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Tddmk2HhWho?si=hDJwAPvdj4EaZRdq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+https://www.youtube.com/watch?v=Tddmk2HhWho
 
 <h2>💻 Features</h2>
 
@@ -14,7 +14,7 @@
 
 <h2>⚙️ Dependencies </h2>
 
-[FluidSynth](http://https://www.fluidsynth.org "FluidSynth") 
+[FluidSynth](https://www.fluidsynth.org "FluidSynth")
 
 <h2>💻 Project set-up </h2>
 
