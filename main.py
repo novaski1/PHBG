@@ -10,7 +10,7 @@ from quality_check import quality_check
 from midi_export import midi_writer
 
 
-def akin_v1(seed, info, how_much):
+def phbg(seed, info, how_much):
 
     for i in range(how_much):
 
@@ -178,4 +178,4 @@ if __name__ == "__main__":
 
     seed = str(random.choice(range(9999)))
 
-    akin_v1(seed, info, 1)
+    phbg(seed, info, 1)
