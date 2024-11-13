@@ -4,6 +4,7 @@
 
 <h2>🎹 Demo</h2>
 
+Here's a demo showcasing beats fully generated using PHBG, layered with some famous artists vocals:
 https://www.youtube.com/watch?v=Tddmk2HhWho
 
 <h2>💻 Features</h2>
